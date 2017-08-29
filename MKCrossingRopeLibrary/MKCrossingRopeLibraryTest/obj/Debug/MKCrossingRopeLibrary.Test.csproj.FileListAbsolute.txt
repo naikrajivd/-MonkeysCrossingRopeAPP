@@ -1,0 +1,8 @@
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\bin\Debug\MKCrossingRopeLibraryTest.dll
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\bin\Debug\MKCrossingRopeLibraryTest.pdb
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\obj\Debug\MKCrossingRopeLibrary.Test.csprojResolveAssemblyReference.cache
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\obj\Debug\MKCrossingRopeLibraryTest.dll
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\obj\Debug\MKCrossingRopeLibraryTest.pdb
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\bin\Debug\MKCrossingRopeLibrary.dll
+C:\Rajiv\dev\Asgn\Int-02\Test-PackSize-01\MKCrossingRopeLibrary\MKCrossingRopeLibraryTest\bin\Debug\MKCrossingRopeLibrary.pdb
